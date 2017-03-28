@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework1", "Homework1\Homework1.csproj", "{83987F2A-97DC-47DE-9886-EB508F360998}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeclareVariables", "Homework1\DeclareVariables.csproj", "{83987F2A-97DC-47DE-9886-EB508F360998}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
